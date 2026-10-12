@@ -86,6 +86,9 @@ yolo_project/
 
 ## 6.关键点的代表性结果截图
 
+https://github.com/avis377/liesun/blob/feat/yolo-inference/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-13%20011850.png
+https://github.com/avis377/liesun/blob/feat/yolo-inference/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-13%20011945.png
+
 ## 7. 实际识别表现
 在光照充足、目标清晰时，检测框与关键点定位准确，置信度普遍高于 0.8
 但快速运动时帧间稳定性略有下降
