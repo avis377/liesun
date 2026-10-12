@@ -1,0 +1,53 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# ---------- 虚拟环境 ----------
+venv/
+env/
+.venv/
+ENV/
+.conda/
+env.bak/
+venv.bak/
+pyvenv.cfg
+
+# ---------- IDE / 编辑器 ----------
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ---------- 模型权重 ----------
+*.pt
+*.pth
+*.onnx
+*.engine
+*.trt
+*.weights
+
+# ---------- 原始视频与结果视频 ----------
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+output_infer.mp4
+
+# ---------- 日志与临时文件 ----------
+*.log
+*.tmp
+.DS_Store
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
